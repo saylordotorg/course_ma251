@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA251: Statistics II"
+course_description: "A review of basic statistics and an application of statistical tools and techniques that are routinely used by modern statisticians for building models to analyze complex, multivariate problems."
+next: ../../../
+previous: ../Unit06
+---
 **Unit 7: Final Exam** <span id="7"></span> 
 -   **Final Exam: The Saylor Foundation’s MA251 Final Exam**
     Link: The Saylor Foundation’s [MA251 Final

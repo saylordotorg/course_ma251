@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA251: Statistics II"
+course_description: "A review of basic statistics and an application of statistical tools and techniques that are routinely used by modern statisticians for building models to analyze complex, multivariate problems."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Multiple Regression and Correlation** <span id="2"></span> 
 *The term “multiple regression” was first introduced by Pearson in 1908.
 Since then, multiple regression has evolved to be a powerful statistical

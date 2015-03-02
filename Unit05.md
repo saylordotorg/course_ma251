@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA251: Statistics II"
+course_description: "A review of basic statistics and an application of statistical tools and techniques that are routinely used by modern statisticians for building models to analyze complex, multivariate problems."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Nonparametric Statistics** <span id="5"></span> 
 *Many methods in statistics assume that your population distribution is
 normal. However, there are many scenarios in which this is not true. In

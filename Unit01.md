@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA251: Statistics II"
+course_description: "A review of basic statistics and an application of statistical tools and techniques that are routinely used by modern statisticians for building models to analyze complex, multivariate problems."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Review** <span id="1"></span> 
 *In this unit, we will review some of the basic concepts you learned in
 Introduction to Statistics

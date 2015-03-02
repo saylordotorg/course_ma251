@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA251: Statistics II"
+course_description: "A review of basic statistics and an application of statistical tools and techniques that are routinely used by modern statisticians for building models to analyze complex, multivariate problems."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Generalized Linear Model and Nonlinear Regression** <span
 id="4"></span> 
 *In this unit, you will be introducd to several new regression models,

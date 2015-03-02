@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA251: Statistics II"
+course_description: "A review of basic statistics and an application of statistical tools and techniques that are routinely used by modern statisticians for building models to analyze complex, multivariate problems."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Model Building with Multiple Regression** <span
 id="3"></span> 
 *This unit will provide you with a framework for building and evaluating
