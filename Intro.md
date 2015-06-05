@@ -124,4 +124,12 @@ approximately **188 hours** to complete. Note that the time advisory for
 each unit also contains a time advisory for creating the element of
 courseware described in that unit.  
   
+**Table of Contents:** You can find the course's units at the links below.
 
+- [Unit 1](https://legacy.saylor.org/ma251/Unit01/)
+- [Unit 2](https://legacy.saylor.org/ma251/Unit02/)
+- [Unit 3](https://legacy.saylor.org/ma251/Unit03/)
+- [Unit 4](https://legacy.saylor.org/ma251/Unit04/)
+- [Unit 5](https://legacy.saylor.org/ma251/Unit05/)
+- [Unit 6](https://legacy.saylor.org/ma251/Unit06/)
+- [Unit 7](https://legacy.saylor.org/ma251/Unit07/)
