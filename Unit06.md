@@ -134,12 +134,12 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Assessment: The Saylor Foundation’s “Factor Analysis Assessment”**
     Link: The Saylor Foundation’s [“Factor Analysis
-    Assessment](http://www.saylor.org/site/wp-content/uploads/2012/06/MA251-Assessment-Unit-6.1-Factor-Analysis.FINAL_.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/06/MA251-Assessment-Unit-6.1-Factor-Analysis.FINAL_.pdf)
+    Assessment](https://resources.saylor.org/archived/wp-content/uploads/2012/06/MA251-Assessment-Unit-6.1-Factor-Analysis.FINAL_.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/MA251-Assessment-Unit-6.1-Factor-Analysis.FINAL_.pdf)
     (PDF)  
       
      Instructions: Complete the linked assessment. When you are done,
     check your work against The Saylor Foundation’s [“Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2012/06/MA251-AnswerKey-Unit-6.1-Factor-Analysis.FINAL_.pdf) for
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/MA251-AnswerKey-Unit-6.1-Factor-Analysis.FINAL_.pdf) for
     subunit 6.1 (PDF).    
       
      Completing this assessment should take less than 2 hours.
@@ -147,13 +147,13 @@ Upon successful completion of this unit, the student will be able to:
 -   **Assessment: The Saylor Foundation’s “Principal Component
     Analysis”**
     Link: The Saylor Foundation’s [“Principal Component
-    Analysis](http://www.saylor.org/site/wp-content/uploads/2012/08/MA251-Assessment-for-Unit-6.2-Principal-Component-Analysis.FINAL_.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/08/MA251-Assessment-for-Unit-6.2-Principal-Component-Analysis.FINAL_.pdf)
+    Analysis](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA251-Assessment-for-Unit-6.2-Principal-Component-Analysis.FINAL_.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA251-Assessment-for-Unit-6.2-Principal-Component-Analysis.FINAL_.pdf)
     (PDF)  
         
      Instructions: Complete the linked assessment, titled “Principal
     Component Analysis.” When you are done, check your work against The
     Saylor Foundation’s [“Answer Key for Principal Component
-    Analysis”](http://www.saylor.org/site/wp-content/uploads/2012/08/MA251-Assessment-AnswerKeyForUnit-6.2-Principal-Component-Analysis.FINAL_.pdf) (PDF)
+    Analysis”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA251-Assessment-AnswerKeyForUnit-6.2-Principal-Component-Analysis.FINAL_.pdf) (PDF)
     in subunit 6.2.   
       
      Completing this assessment should take you no longer than 5 hours.
@@ -204,13 +204,13 @@ Upon successful completion of this unit, the student will be able to:
 -   **Assessment: The Saylor Foundation’s “Principal Component
     Analysis”**
     Link: The Saylor Foundation’s [“Principal Component
-    Analysis](http://www.saylor.org/site/wp-content/uploads/2012/08/MA251-Assessment-for-Unit-6.2-Principal-Component-Analysis.FINAL_.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/08/MA251-Assessment-for-Unit-6.2-Principal-Component-Analysis.FINAL_.pdf)
+    Analysis](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA251-Assessment-for-Unit-6.2-Principal-Component-Analysis.FINAL_.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA251-Assessment-for-Unit-6.2-Principal-Component-Analysis.FINAL_.pdf)
     (PDF)  
         
      Instructions: Complete the linked assessment. When you are done,
     check your work against The Saylor Foundation’s [“Answer Key for
     Principal Component
-    Analysis”](http://www.saylor.org/site/wp-content/uploads/2012/08/MA251-Assessment-AnswerKeyForUnit-6.2-Principal-Component-Analysis.FINAL_.pdf) (PDF)
+    Analysis”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA251-Assessment-AnswerKeyForUnit-6.2-Principal-Component-Analysis.FINAL_.pdf) (PDF)
     in subunit 6.2.   
       
      Completing this assessment should take you no longer than 5 hours.
@@ -222,12 +222,12 @@ Upon successful completion of this unit, the student will be able to:
 -   **Assessment: The Saylor Foundation’s “Structural Equation Modeling
     Assessment”**
     Link: The Saylor Foundation’s [“Structural Equation Modeling
-    Assessment](http://www.saylor.org/site/wp-content/uploads/2012/06/MA251-Unit-6.2-Structural-Equation-Modeling-Assessment.FINAL_.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/06/MA251-Unit-6.2-Structural-Equation-Modeling-Assessment.FINAL_.pdf)
+    Assessment](https://resources.saylor.org/archived/wp-content/uploads/2012/06/MA251-Unit-6.2-Structural-Equation-Modeling-Assessment.FINAL_.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/MA251-Unit-6.2-Structural-Equation-Modeling-Assessment.FINAL_.pdf)
     (PDF)  
       
      Instructions: Complete the linked assignment. When you are done,
     check your work against The Saylor Foundation’s [“Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2012/06/MA251-Unit-6.2-Structural-Equation-Modeling-Answer-Key.FINAL_.pdf) for
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/MA251-Unit-6.2-Structural-Equation-Modeling-Answer-Key.FINAL_.pdf) for
     subunit 6.2 (PDF).  
       
      Completing this assignment should take you no longer than 2 hours.
@@ -270,11 +270,11 @@ Upon successful completion of this unit, the student will be able to:
     <span style="font-family: Arial, sans-serif; font-size: 9pt;"><span
     style="background-color: rgb(255, 255, 255);">Link: The Saylor
     Foundation’s
-    [“](http://www.saylor.org/site/wp-content/uploads/2012/08/MA251-Assessment-for-Unit-6.3.FINAL_.pdf)</span></span>[<span
+    [“](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA251-Assessment-for-Unit-6.3.FINAL_.pdf)</span></span>[<span
     style="font-family: Arial, sans-serif; font-size: 9pt; background-color: rgb(255, 255, 255);">Survival
-    Analysis</span>](http://www.saylor.org/site/wp-content/uploads/2012/08/MA251-Assessment-for-Unit-6.3.FINAL_.pdf)<span
+    Analysis</span>](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA251-Assessment-for-Unit-6.3.FINAL_.pdf)<span
     style="font-family: Arial, sans-serif; font-size: 9pt;"><span
-    style="background-color: rgb(255, 255, 255);">[”](http://www.saylor.org/site/wp-content/uploads/2012/08/MA251-Assessment-for-Unit-6.3.FINAL_.pdf)
+    style="background-color: rgb(255, 255, 255);">[”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA251-Assessment-for-Unit-6.3.FINAL_.pdf)
     (PDF)</span></span>
 
     <span style="font-size: 9pt; font-family: Arial, sans-serif;"><span
@@ -285,7 +285,7 @@ Upon successful completion of this unit, the student will be able to:
     style="font-family: Arial, sans-serif;">Complete the linked
     assessment. When you are done, check your work against The Saylor
     Foundation’s </span></span>[“Answer Key for Survival
-    Analysis”](http://www.saylor.org/site/wp-content/uploads/2012/08/MA251-Assessment-AnswerKeyForUnit-6.3.FINAL_.pdf)<span
+    Analysis”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA251-Assessment-AnswerKeyForUnit-6.3.FINAL_.pdf)<span
     class="apple-converted-space"
     style="font-family: Arial, sans-serif;"> </span><span
     style="font-family: Arial, sans-serif;">(PDF) in subunit
@@ -301,12 +301,12 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Assessment: The Saylor Foundation’s “Unit 6.3 Assessment”**
     Link: The Saylor Foundation’s [“Unit 6.3
-    Assessment](http://www.saylor.org/site/wp-content/uploads/2012/06/MA251-Assessment-Quiz.Unit-6.3.FINAL_.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/06/MA251-Assessment-Quiz.Unit-6.3.FINAL_.pdf)
+    Assessment](https://resources.saylor.org/archived/wp-content/uploads/2012/06/MA251-Assessment-Quiz.Unit-6.3.FINAL_.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/MA251-Assessment-Quiz.Unit-6.3.FINAL_.pdf)
     (PDF)  
         
      Instructions: Complete the linked assessment. When you are done,
     check your work against The Saylor Foundation’s [“Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2012/06/MA251-Assessment-Quiz-Answer-Key-6.3.FINAL_.pdf) for
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/MA251-Assessment-Quiz-Answer-Key-6.3.FINAL_.pdf) for
     subunit 6.3 (PDF).    
       
      Completing this assessment should take you no longer than 2 hours.
@@ -351,13 +351,13 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Assessment: The Saylor Foundation’s “Multilevel Modeling”**
     Link: The Saylor Foundation’s [“Multilevel
-    Modeling](http://www.saylor.org/site/wp-content/uploads/2012/08/MA251-Assessment-for-Unit-6.4.2-Multilevel-Modeling.FINAL_.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/08/MA251-Assessment-for-Unit-6.4.2-Multilevel-Modeling.FINAL_.pdf)
+    Modeling](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA251-Assessment-for-Unit-6.4.2-Multilevel-Modeling.FINAL_.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA251-Assessment-for-Unit-6.4.2-Multilevel-Modeling.FINAL_.pdf)
     (PDF)  
         
      Instructions: Complete the linked assessment. When you are done,
     check your work against The Saylor Foundation’s [“Answer Key for
     Multilevel
-    Modeling”](http://www.saylor.org/site/wp-content/uploads/2012/08/MA251-Assessment-AnswerKeyForUnit-6.4.2-Multilevel-Modeling.FINAL_.pdf) (PDF)
+    Modeling”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA251-Assessment-AnswerKeyForUnit-6.4.2-Multilevel-Modeling.FINAL_.pdf) (PDF)
     in subunit 6.5.    
       
      Completing this assessment should take you no longer than 4 hours.
@@ -368,12 +368,12 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Assessment: The Saylor Foundation’s “Meta-Analysis Assessment”**
     Link: The Saylor Foundation’s [“Meta-Analysis
-    Assessment](http://www.saylor.org/site/wp-content/uploads/2012/06/MA251-Assessment-Quiz-Unit-6.4-Meta-Analysis.FINAL_.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/06/MA251-Assessment-Quiz-Unit-6.4-Meta-Analysis.FINAL_.pdf)
+    Assessment](https://resources.saylor.org/archived/wp-content/uploads/2012/06/MA251-Assessment-Quiz-Unit-6.4-Meta-Analysis.FINAL_.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/MA251-Assessment-Quiz-Unit-6.4-Meta-Analysis.FINAL_.pdf)
     (PDF)  
       
      Instructions: Complete the linked assignment. When you are done,
     check your work against The Saylor Foundation’s [“Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2012/06/MA251-Answer-Key-Unit-6.4-Meta-Analysis.FINAL_.pdf) for
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/MA251-Answer-Key-Unit-6.4-Meta-Analysis.FINAL_.pdf) for
     subunit 6.4 (PDF).    
       
      Completing this assignment should take you no longer than 2 hours.
@@ -580,24 +580,24 @@ neural network, Support Vector Machine (SVM)** <span id="6.6.3"></span> 
 
 -   **Assessment: The Saylor Foundation’s “Classification Techniques”**
     Link: The Saylor Foundation’s [“Classification
-    Techniques](http://www.saylor.org/site/wp-content/uploads/2012/08/MA251-Assessment-Unit-6.6-FINAL.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/08/MA251-Assessment-Unit-6.6-FINAL.pdf)
+    Techniques](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA251-Assessment-Unit-6.6-FINAL.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA251-Assessment-Unit-6.6-FINAL.pdf)
     (PDF)  
         
      Instructions: Complete the linked assessment. When you are done,
     check your work against The Saylor Foundation’s [“Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2012/08/MA251-Assessment-Answer-Key-Unit-6.6-FINAL.pdf) (PDF)
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA251-Assessment-Answer-Key-Unit-6.6-FINAL.pdf) (PDF)
     for subunit 6.6 (which was written in R).   
       
      Completing this assessment should take you no longer than 4 hours.
 
 -   **Assessment: The Saylor Foundation’s “Unit 6.6 Assessment”**
     Link: The Saylor Foundation’s [“Unit 6.6
-    Assessment](http://www.saylor.org/site/wp-content/uploads/2012/05/MA251-Assessment-Quiz.Unit-6.6.FINAL_.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/05/MA251-Assessment-Quiz.Unit-6.6.FINAL_.pdf)
+    Assessment](https://resources.saylor.org/archived/wp-content/uploads/2012/05/MA251-Assessment-Quiz.Unit-6.6.FINAL_.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/05/MA251-Assessment-Quiz.Unit-6.6.FINAL_.pdf)
     (PDF)  
         
      Instructions: Complete the linked assignment. When you are done,
     check your work against The Saylor Foundation’s [“Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2012/05/MA251-Assessment-Quiz-Answer-Key-6.6.FINAL_.pdf) for
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/05/MA251-Assessment-Quiz-Answer-Key-6.6.FINAL_.pdf) for
     subunit 6.6 (PDF).    
       
      Completing this assignment should take you no longer than 2 hours.

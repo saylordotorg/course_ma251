@@ -152,19 +152,19 @@ Upon successful completion of this unit, the student will be able to:
     <span
     style="font-size: 9pt; font-family: Arial, sans-serif; background-color: white; background-position: initial initial; background-repeat: initial initial; ">Link:
     The Saylor Foundation’s
-    [“](http://www.saylor.org/site/wp-content/uploads/2012/08/MA251-Assessment-for-Unit-3.3-Regression-Diagnostics.FINAL_.pdf)</span><span
+    [“](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA251-Assessment-for-Unit-3.3-Regression-Diagnostics.FINAL_.pdf)</span><span
     style="font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">[Regression
-    Diagnostics](http://www.saylor.org/site/wp-content/uploads/2012/08/MA251-Assessment-for-Unit-3.3-Regression-Diagnostics.FINAL_.pdf)<span
-    style="background-color: white; background-position: initial initial; background-repeat: initial initial; ">[”](http://www.saylor.org/site/wp-content/uploads/2012/08/MA251-Assessment-for-Unit-3.3-Regression-Diagnostics.FINAL_.pdf)
+    Diagnostics](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA251-Assessment-for-Unit-3.3-Regression-Diagnostics.FINAL_.pdf)<span
+    style="background-color: white; background-position: initial initial; background-repeat: initial initial; ">[”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA251-Assessment-for-Unit-3.3-Regression-Diagnostics.FINAL_.pdf)
     (PDF)</span>                                                                      
     </span>  
      <span style="background:white"> </span>  
      <span style="background:white">Instructions: Complete the linked
     assessment, titled “</span>Regression Diagnostics.” When you are
     done, check your work against The Saylor Foundation’s
-    [“](http://www.saylor.org/site/wp-content/uploads/2012/08/MA251-Assessment-AnswerKeyForUnit-3.3-Regression-Diagnostics.FINAL_.pdf)[Answer
+    [“](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA251-Assessment-AnswerKeyForUnit-3.3-Regression-Diagnostics.FINAL_.pdf)[Answer
     Key for Regression
-    Diagnostics](http://www.saylor.org/site/wp-content/uploads/2012/08/MA251-Assessment-AnswerKeyForUnit-3.3-Regression-Diagnostics.FINAL_.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/08/MA251-Assessment-AnswerKeyForUnit-3.3-Regression-Diagnostics.FINAL_.pdf) (PDF)
+    Diagnostics](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA251-Assessment-AnswerKeyForUnit-3.3-Regression-Diagnostics.FINAL_.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA251-Assessment-AnswerKeyForUnit-3.3-Regression-Diagnostics.FINAL_.pdf) (PDF)
     in subunit 3.3.<span class="apple-converted-space"> </span>
 
     This assessment should take you no longer than 4 hours. If you have
