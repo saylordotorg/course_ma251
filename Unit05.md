@@ -113,13 +113,13 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Assessment: The Saylor Foundation’s “Nonparametric Statistics”**
     Link: The Saylor Foundation’s [“Nonparametric
-    Statistics](http://www.saylor.org/site/wp-content/uploads/2012/08/MA251-Assessment-Unit-5-Nonparametric-statistics.FINAL_.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/08/MA251-Assessment-Unit-5-Nonparametric-statistics.FINAL_.pdf)
+    Statistics](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA251-Assessment-Unit-5-Nonparametric-statistics.FINAL_.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA251-Assessment-Unit-5-Nonparametric-statistics.FINAL_.pdf)
     (PDF)  
       
      Instructions: Complete the linked assessment, titled
     “Nonparametrics Statistics.” When you are done, check your work
     against The Saylor Foundation’s [“Answer Key for Nonparametrics
-    Statistics](http://www.saylor.org/site/wp-content/uploads/2012/08/MA251-Assessment-AnswerKey-Unit-5-Nonparametric-Statistics.FINAL_.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/08/MA251-Assessment-AnswerKey-Unit-5-Nonparametric-Statistics.FINAL_.pdf) (PDF)
+    Statistics](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA251-Assessment-AnswerKey-Unit-5-Nonparametric-Statistics.FINAL_.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA251-Assessment-AnswerKey-Unit-5-Nonparametric-Statistics.FINAL_.pdf) (PDF)
     in Unit 5.   
       
      Completing this assessment should take you no longer than 4 hours.
