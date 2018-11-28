@@ -150,17 +150,17 @@ id="4.4.3"></span> 
 
 -   **Assessment: The Saylor Foundation’s “Logistic Regression”**
     Link: The Saylor Foundation’s [“Logistic
-    Regression](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA251-Unit-4.4-Assessment.FINAL_.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA251-Unit-4.4-Assessment.FINAL_.pdf)
+    Regression](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/MA251-Unit-4.4-Assessment.FINAL_.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/MA251-Unit-4.4-Assessment.FINAL_.pdf)
     (PDF)  
         
      Instructions: Complete the linked assessment. When you are done,
     check your work against The Saylor Foundation’s [“Answer
-    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA251-Assessment-Unit-4.4-Answer-Key.FINAL_.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA251-Assessment-Unit-4.4-Answer-Key.FINAL_.pdf) (PDF)
+    Key](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/MA251-Assessment-Unit-4.4-Answer-Key.FINAL_.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/MA251-Assessment-Unit-4.4-Answer-Key.FINAL_.pdf) (PDF)
     for subunit 4.4 in R.  
       
      If you have not done so already, click on the following link to
     download and install R on your computer:
-    [http://cran.r-project.org/](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA251-Assessment-Unit-4.4-Answer-Key.FINAL_.pdf).
+    [http://cran.r-project.org/](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/MA251-Assessment-Unit-4.4-Answer-Key.FINAL_.pdf).
     R will be used throughout the course for assignments.  
       
      Completing this assessment should take you no longer than 3 hours.

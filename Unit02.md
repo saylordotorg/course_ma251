@@ -238,8 +238,8 @@ id="2.3"></span> 
     <span style="font-family: Arial, sans-serif; font-size: 9pt; ">Link:
     The Saylor Foundation’s </span>[“<span
     style="font-size: 9pt;">Multiple Regression
-    Model</span>](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA251-Assessment-for-Unit-2.5.FINAL_.pdf)<span
-    style="font-size: 9pt; font-family: Arial, sans-serif;">[”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA251-Assessment-for-Unit-2.5.FINAL_.pdf)
+    Model</span>](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/MA251-Assessment-for-Unit-2.5.FINAL_.pdf)<span
+    style="font-size: 9pt; font-family: Arial, sans-serif;">[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/MA251-Assessment-for-Unit-2.5.FINAL_.pdf)
     (PDF)</span>
 
     <span
@@ -252,7 +252,7 @@ id="2.3"></span> 
     Model</span></span>”<span style="font-family: Arial, sans-serif;">.
     When you are done, check your work against The Saylor
     Foundation’s </span>[“Answer Key for Multiple Regression
-    Model”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA251-Assessment-AnswerKeyForUnit-2.5.FINAL_.pdf) <span
+    Model”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/MA251-Assessment-AnswerKeyForUnit-2.5.FINAL_.pdf) <span
     style="font-family: Arial, sans-serif;">(PDF) in subunit
     2.5.</span><span class="apple-converted-space"
     style="font-family: Arial, sans-serif; font-size: 10pt;"> </span>

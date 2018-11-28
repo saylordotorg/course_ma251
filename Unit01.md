@@ -217,14 +217,14 @@ id="1.2"></span> 
     Student’s T-Tests”**
     Link: The Saylor Foundation’s [“One and Two-Sample Problems:
     Student’s
-    T-Tests](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA251-Assessment-for-Unit-1.2.FINAL_.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA251-Assessment-for-Unit-1.2.FINAL_.pdf)
+    T-Tests](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/MA251-Assessment-for-Unit-1.2.FINAL_.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/MA251-Assessment-for-Unit-1.2.FINAL_.pdf)
     (PDF)  
         
      Instructions: Complete the linked assessment, titled “One and
     two-sample problems: Student’s t-tests”. When you are done, check
     your work against The Saylor Foundation’s [“Answer Key for One and
     two-sample problems: Student’s
-    t-tests](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA251-Assessment-AnswerKeyForUnit-1.2.FINAL_.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/MA251-Assessment-AnswerKeyForUnit-1.2.FINAL_.pdf)
+    t-tests](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/MA251-Assessment-AnswerKeyForUnit-1.2.FINAL_.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/MA251-Assessment-AnswerKeyForUnit-1.2.FINAL_.pdf)
     in unit 1.2.   
       
      Completing this assessment should take you no longer than 4 hours.
@@ -457,7 +457,7 @@ coefficient, estimate mean values, and predict individual values.  *
     Statistics*: “Chapter 8: Regression Basics”**
     Link: Global Text: Thomas K. Tiemann’s *Introductory Business
     Statistics*: [“Chapter 8: Regression
-    Basics”](https://resources.saylor.org/archived/wp-content/uploads/2012/03/Introductory-Business-Statistics.pdf)
+    Basics”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/03/Introductory-Business-Statistics.pdf)
     (PDF)  
       
      Instructions: Download the PDF file. Open the file and browse
@@ -496,7 +496,7 @@ coefficient, estimate mean values, and predict individual values.  *
     Statistics*: “Chapter 8: Regression Basics”**
     Link: Global Text: Thomas K. Tiemann’s *Introductory Business
     Statistics*: [“Chapter 8: Regression
-    Basics”](https://resources.saylor.org/archived/wp-content/uploads/2012/03/Introductory-Business-Statistics.pdf)
+    Basics”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/03/Introductory-Business-Statistics.pdf)
     (PDF)  
       
      Instructions: Download the PDF file. Open the file and browse to
@@ -573,7 +573,7 @@ coefficient, estimate mean values, and predict individual values.  *
 -   **Assessment: The Saylor Foundation’s “Simple Linear Regression”**
 
     Link: The Saylor Foundation’s [“Simple Linear
-    Regression](https://resources.saylor.org/archived/wp-content/uploads/2012/04/MA251-Assigment-for-Unit-1.4.FINAL_.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/04/MA251-Assigment-for-Unit-1.4.FINAL_.pdf)
+    Regression](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/MA251-Assigment-for-Unit-1.4.FINAL_.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/MA251-Assigment-for-Unit-1.4.FINAL_.pdf)
     (PDF)
 
     Instructions: Complete the linked assessment, titled “Simple Linear
